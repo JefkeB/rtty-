@@ -1,0 +1,6 @@
+[submodule "libev"]
+	path = libev
+	url = https://github.com/enki/libev.git
+[submodule "rtty"]
+	path = rtty
+	url = https://github.com/zhaojh329/rtty.git

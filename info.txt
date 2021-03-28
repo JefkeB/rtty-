@@ -1,0 +1,3 @@
+./configure --host=arm-linux-gnueabihf
+export DESTDIR="$HOME/Work/ionos/rtty_/opt"
+
